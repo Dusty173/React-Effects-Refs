@@ -1,0 +1,28 @@
+.Deck {
+    text-align: center;
+  }
+  
+  .Deck-btn {
+    padding: 15px;
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    border: none;
+    margin: 0 10px;
+  }
+  
+  .Deck-btn:hover {
+    cursor: pointer;
+    color: black;
+    background-color: white;
+  }
+  
+  .Deck-btn:active,
+  .Deck-btn:focus {
+    outline: none;
+  }
+  
+  .Deck-cardarea {
+    margin-top: 80px;
+  }
+  
